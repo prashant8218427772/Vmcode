@@ -1,0 +1,15 @@
+variable "subnet_name" {}
+variable "rg-name" {}
+variable "vnet-name" {}
+variable "subnet-ipaddress" {}
+variable "pip-name" {}
+variable "nic-name" {}
+variable "nsg-name" {}
+variable "vm-name" {}
+variable "vm-size" {}
+variable "vm-username" {}
+variable "publisher" {}
+variable "offer" {}
+variable "sku" {}
+variable "vm-version" {}
+variable "key-vault-name" {}
